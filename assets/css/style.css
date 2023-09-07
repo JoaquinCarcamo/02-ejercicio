@@ -23,8 +23,7 @@ margin: 0 auto;
 
 }
 .logo > img {
-    margin-top: 20px;
-    margin-left: 8px;
+    margin-top: 25px;
 }
 .menu-principal{
     width: 60%;
@@ -48,6 +47,8 @@ margin: 0 auto;
 .menu-nav > ul{
     list-style-type: none;
     overflow: hidden;
+    text-align: center;
+    padding-top: 25px;
 }
 .menu-nav > ul > li{
     text-decoration: none;
@@ -61,15 +62,17 @@ margin: 0 auto;
 .menu-nav > ul > li > a{
     text-decoration: none;
     color: white;
-    font-weight: 100;
+    font-weight: 90;
     line-height: 20px;
+    float: left;
 }
 
 .menu-nav > ul > li > a:hover {
     text-decoration: none;
-    color: white;
+    color: gray;
     font-weight: 100;
     line-height: 20px;
+    float: left;
 }
 
 .linea {
@@ -80,5 +83,5 @@ margin: 0 auto;
     text-align: center;
     border-style: solid;
     border-width: 0px 1px 0px 1px;
-    padding: 25px;
+    padding: 0px 15px 15px;
 }
