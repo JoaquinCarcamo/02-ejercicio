@@ -43,6 +43,7 @@ margin: 0 auto;
 .menu-nav{
     float: right;
     font-family: 'Open Sans', sans-serif;
+    margin-top: -20px;
 }
 .menu-nav > ul{
     list-style-type: none;
@@ -69,7 +70,8 @@ margin: 0 auto;
 
 .menu-nav > ul > li > a:hover {
     text-decoration: none;
-    color: gray;
+    color: white;
+    opacity: 40%;
     font-weight: 100;
     line-height: 20px;
     float: left;
