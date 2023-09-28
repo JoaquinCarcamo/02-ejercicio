@@ -29,11 +29,14 @@ background-image: url("../img/portad-banco-1280x443.jpg");
     background-repeat: no-repeat;
 
 }
+
 .col-4{
     text-align: right;
     padding-top: 100px;
     padding-left: 600px;
     color: white;
+
+
 }
 
 .col-2 > img {
